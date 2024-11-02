@@ -4,4 +4,6 @@
 //git branch -M main
 //git push origin main
 git checkout gitbranch1
+git merge gitbranch1
+git push origin main
 testing
