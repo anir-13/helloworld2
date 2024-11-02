@@ -1,0 +1,6 @@
+/git init 
+//git remote add origin https://github.com/anir-13/helloworld2.git
+//git add .
+//git branch -M main
+//git push origin main
+testing
