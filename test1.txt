@@ -6,4 +6,5 @@
 git checkout gitbranch1
 git merge gitbranch1
 git push origin main
+git pull origin main
 testing
